@@ -41,7 +41,7 @@ npm install
 
 node index.js
 
-
+Use POSTMAN for checking API:GET,POST,PUT,UPDATE
 ---
 
 ## 🧪 API Endpoints
